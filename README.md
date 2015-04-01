@@ -30,10 +30,16 @@ create a connection object for s3
 create a rescue-retry way to connect to aws
 
 ## Exercise 4 - Lets get a list of S3 buckets and files in them
-what buckets do we have ?
+Print a list of s3 buckets
 
 ## Exercise 5 - Lets upload an object to an S3 bucket
-create a script that uploads a file to S3
+Create a program that uploads a file to S3
 
+## Exercise 6 - Instances
+retrieve a list of stopped instances
 
+## Exercise 7 - Instances, continued
+find and start an instance with a specific name
 
+## Exercise 8 - Launch configs, autoscale groups, cloudformation
+create a cloudformation stack with the api
