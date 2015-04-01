@@ -36,10 +36,7 @@ Print a list of s3 buckets
 Create a program that uploads a file to S3
 
 ## Exercise 6 - Instances
-retrieve a list of stopped instances
-
-## Exercise 7 - Instances, continued
 find and start an instance with a specific name
 
-## Exercise 8 - Launch configs, autoscale groups, cloudformation
+## Exercise 7 - Launch configs, autoscale groups, cloudformation
 create a cloudformation stack with the api
