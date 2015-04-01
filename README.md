@@ -11,9 +11,11 @@ AWS ruby gem version 1.63 (not 2.x)
 after installation, please run the following to make sure all is in order:
 
 rvm use ruby-2.1.5 (should simply say "using PATH/ruby-2.1.5)
+
 gem list (should include the line "aws-sdk (1.63)")
 
 then run irb, and type in "require 'aws-sdk'"
+
 output should be "true"
 
 # Exercise List
