@@ -6,6 +6,8 @@ RVM - Ruby Version Management. This will allow you to install multiple version o
 
 Ruby 2.1.5 (or any 2.1.x if you prefer it)
 
+Sublime Text editor
+
 AWS ruby gem version 1.63 (not 2.x)
 
 ## after installation, please run the following to make sure all is in order:
