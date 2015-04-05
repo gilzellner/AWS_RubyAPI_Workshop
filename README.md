@@ -36,6 +36,8 @@ Exercises 6-7 (30 minutes)
 create an api key
 
 ## Exercise 2 - Lets connect to aws
+http://docs.aws.amazon.com/AWSRubySDK/latest/AWS/S3/S3Object.html
+
 create a connection object for s3
 
 ## Exercise 3 - Lets reliably connect to aws-sdk
@@ -47,8 +49,6 @@ create a few s3 buckets (via GUI)
 Print a list of s3 buckets
 
 ## Exercise 5 - Lets upload an object to an S3 bucket
-
-http://docs.aws.amazon.com/AWSRubySDK/latest/AWS/S3/S3Object.html
 
 Create a program that uploads a file to S3
 
