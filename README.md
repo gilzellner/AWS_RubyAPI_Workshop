@@ -4,11 +4,11 @@
 
 RVM - Ruby Version Management. This will allow you to install multiple version of Ruby and thus work we do will not interfere with other things you might be doing. https://rvm.io/
 
-Ruby 2.1.5 (or any 2.1.x if you prefer it)
+Ruby 2.1.5 (or any 2.1.x if you prefer it) (rvm install ruby-2.1.5)
 
-Sublime Text editor
+Sublime Text editor (http://www.sublimetext.com/download)
 
-AWS ruby gem version 1.63 (not 2.x)
+AWS ruby gem version 1.63 (not 2.x) (gem install aws-sdk -v 1.63)
 
 ## after installation, please run the following to make sure all is in order:
 
@@ -19,6 +19,13 @@ gem list (should include the line "aws-sdk (1.63)")
 then run irb, and type in "require 'aws-sdk'"
 
 output should be "true"
+
+# Agenda
+
+## Introduction: Why do we even needs AWS API when we have AWS-CLI (10 minutes)
+## Exercises 1-5 (60 minutes)
+## Break (20 minutes)
+## Exercises 6-7 (30 minutes)
 
 # Exercise List
 
