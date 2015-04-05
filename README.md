@@ -4,7 +4,7 @@
 
 RVM - Ruby Version Management. This will allow you to install multiple version of Ruby and thus work we do will not interfere with other things you might be doing. https://rvm.io/
 
-Ruby 2.1.5 (or any 2.1.x if you prefer it) (rvm install ruby-2.1.5)
+Ruby 2.1.5 (or any 2.1.x if you prefer it) `rvm install ruby-2.1.5`
 
 Sublime Text editor (http://www.sublimetext.com/download)
 
