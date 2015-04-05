@@ -8,15 +8,15 @@ Ruby 2.1.5 (or any 2.1.x if you prefer it) `rvm install ruby-2.1.5`
 
 Sublime Text editor (http://www.sublimetext.com/download)
 
-AWS ruby gem version 1.63 (not 2.x) (gem install aws-sdk -v 1.63)
+AWS ruby gem version 1.63 (not 2.x) `gem install aws-sdk -v 1.63`
 
 ## after installation, please run the following to make sure all is in order:
 
-rvm use ruby-2.1.5 (should simply say "using PATH/ruby-2.1.5)
+`rvm use ruby-2.1.5` (should simply say "using PATH/ruby-2.1.5)
 
-gem list (should include the line "aws-sdk (1.63)")
+`gem list` (should include the line "aws-sdk (1.63)")
 
-then run irb, and type in "require 'aws-sdk'"
+then run `irb`, and type in "require 'aws-sdk'"
 
 output should be "true"
 
