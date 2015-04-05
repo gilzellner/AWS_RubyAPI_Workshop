@@ -48,9 +48,14 @@ Print a list of s3 buckets
 
 ## Exercise 5 - Lets upload an object to an S3 bucket
 
+http://docs.aws.amazon.com/AWSRubySDK/latest/AWS/S3/S3Object.html
+
 Create a program that uploads a file to S3
 
 ## Exercise 6 - Instances
+
+http://docs.aws.amazon.com/AWSRubySDK/latest/AWS/EC2.html
+
 create (GUI) 2 instances with different names. 
 
 find and start an instance with a specific name
