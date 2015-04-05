@@ -22,10 +22,13 @@ output should be "true"
 
 # Agenda
 
-## Introduction: Why do we even needs AWS API when we have AWS-CLI (10 minutes)
-## Exercises 1-5 (60 minutes)
-## Break (20 minutes)
-## Exercises 6-7 (30 minutes)
+Introduction: Why do we even needs AWS API when we have AWS-CLI (10 minutes)
+
+Exercises 1-5 (60 minutes)
+
+Break (20 minutes)
+
+Exercises 6-7 (30 minutes)
 
 # Exercise List
 
