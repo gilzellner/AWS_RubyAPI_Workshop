@@ -30,6 +30,8 @@ Break (20 minutes)
 
 Exercises 6-7 (30 minutes)
 
+If we have extra time we can also do some things in the field of load balancers, route53, etc.
+
 # Exercise List
 
 ## Exercise 1 - Lets Create an API Key to use today (AWS GUI)
