@@ -68,3 +68,4 @@ create (GUI) a launch config and autoscale group
 create (Cloudformer) a cloudformation template.
 
 create a cloudformation stack with the api
+http://docs.aws.amazon.com/AWSRubySDK/latest/AWS/CloudFormation.html
