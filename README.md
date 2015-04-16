@@ -1,5 +1,9 @@
 # AWS_RubyAPI_Workshop
 
+Given at Earnix 2/4/2015
+
+Given at WeWork 15/4/2015
+
 ## Please install the following before the event
 
 RVM - Ruby Version Management. This will allow you to install multiple version of Ruby and thus work we do will not interfere with other things you might be doing. https://rvm.io/
